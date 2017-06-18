@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
 
-var quote1 = "“Quote 1.”";
+var quote1 = "“Quote 1”";
 
 var quote2 = "“Quote 2”";
 
@@ -26,52 +26,62 @@ var quote10 = "“Quote 10”";
 
 $("img").click(function(){
 
-var currentQuote =	$("h1").text();
-
-$("h1").fadeOut(0);
-
+	var currentQuote =	$("h1").text();
+	var fadeTime = 1000;
 	
-if(currentQuote == quote1){
-	$("h1").text(quote2);
-} 
+	$("h1").fadeOut(0);
+	$(".image1").fadeTo(fadeTime,0)
+		
+	if(currentQuote == quote1){
+		$("h1").text(quote2);
+		$(".image2").fadeTo(fadeTime,1)
+	} 
 
-if(currentQuote == quote2){
-	$("h1").text(quote3);
-} 
-
-
-if(currentQuote == quote3){
-	$("h1").text(quote4);
-} 
-
-if(currentQuote == quote4){
-	$("h1").text(quote5);
-} 
+	if(currentQuote == quote2){
+		$("h1").text(quote3);
+		$(".image3").fadeTo(fadeTime,1)
+	} 
 
 
-if(currentQuote == quote5){
-	$("h1").text(quote6);
-} 
+	if(currentQuote == quote3){
+		$("h1").text(quote4);
+		$(".image4").fadeTo(fadeTime,1)
+	} 
+
+	if(currentQuote == quote4){
+		$("h1").text(quote5);
+		$(".image5").fadeTo(fadeTime,1)
+	} 
 
 
-if(currentQuote == quote6){
-	$("h1").text(quote7);
-} 
+	if(currentQuote == quote5){
+		$("h1").text(quote6);
+		$(".image6").fadeTo(fadeTime,1)
+	} 
 
 
-if(currentQuote == quote7){
-	$("h1").text(quote8);
-} 
+	if(currentQuote == quote6){
+		$("h1").text(quote7);
+		$(".image7").fadeTo(fadeTime,1)
+	} 
 
-if(currentQuote == quote8){
-	$("h1").text(quote9);
-} 
 
-if(currentQuote == quote9){
-	$("h1").text(quote10);
-} 
+	if(currentQuote == quote7){
+		$("h1").text(quote8);
+		$(".image8").fadeTo(fadeTime,1)
+	} 
 
-$("h1").fadeIn(1000);
+	if(currentQuote == quote8){
+		$("h1").text(quote9);
+		$(".image9").fadeTo(fadeTime,1)
+	} 
+
+	if(currentQuote == quote9){
+		$("h1").text(quote10);
+		$(".image10").fadeTo(fadeTime,1)
+	} 
+
+	$("h1").fadeIn(1000);
 
 
 

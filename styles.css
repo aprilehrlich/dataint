@@ -14,11 +14,110 @@ h1 {
   text-align: center;
   color: white;
   text-shadow: black 2px 2px 2px;
-  max-width: 90%;
+  /*max-width: 90%;*/
   margin: 20px auto;
 }
 
 p {
   text-align: center;
   color: white;
+}
+
+.quote_text {
+  color:white;
+  font-size: 18px;
+  
+}
+
+.image_container {
+  margin:auto;
+  position:relative;
+}
+
+.quote_box {
+  position:absolute;
+  text-align:center;
+  bottom:300px;
+}
+
+.image1 {
+  width:600px;
+  opacity:1;
+  position:absolute;
+  /*top:0px;
+  left:0px;*/
+  margin:auto;
+}
+
+.image2 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image3 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image4 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image5 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image6 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image7 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image8 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image9 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
+}
+.image10 {
+  width:600px;
+  opacity:0;
+  position:absolute;
+  top:0px;
+  left:0px;
+  margin:auto;
 }
