@@ -3,34 +3,34 @@
 $(document).ready(function(){
 
 var quote1 = "“Quote 1”";
-var speaker1 = "Olga Pierce";
+var speaker1 = "-Olga Pierce";
 
 var quote2 = "“Quote 2”";
-var speaker2 = "Ryann Grochowski Jones";
+var speaker2 = "-Ryann Grochowski Jones";
 
 var quote3 = "“Quote 3”";
-var speaker3 = "Sisi Wei";
+var speaker3 = "-Sisi Wei";
 
 var quote4 = "“Quote 4”";
-var speaker4 = "Lena Groeger";
+var speaker4 = "-Lena Groeger";
 
 var quote5 = "“Quote 5”";
-var speaker5 = "Tracy Weber";
+var speaker5 = "-Tracy Weber";
 
 var quote6 = "“Quote 6”";
-var speaker6 = "Charlie Ornstein";
+var speaker6 = "-Charlie Ornstein";
 
 var quote7 = "“Quote 7”";
-var speaker7 = "Topher Sanders";
+var speaker7 = "-Topher Sanders";
 
 var quote8 = "“Quote 8”";
-var speaker8 = "Olga Pierce";
+var speaker8 = "-Olga Pierce";
 
 var quote9 = "“Quote 9”";
-var speaker9 = "Derek Willis";
+var speaker9 = "-Derek Willis";
 
 var quote10 = "“Quote 10”";
-var speaker10 = "Sisi Wei";
+var speaker10 = "-Sisi Wei";
 
 // When someone clicks
 
