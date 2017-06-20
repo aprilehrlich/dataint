@@ -98,7 +98,7 @@ $("img").click(function(){
 		$("h1").text(quote10);
 		$("#image10").fadeTo(fadeTime,1);
 		$("p").text(speaker10);
-	} 
+	}
 
 	$("h1").fadeIn(1000);
 
