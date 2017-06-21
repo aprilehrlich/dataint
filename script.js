@@ -1,34 +1,34 @@
 
 $(document).ready(function(){
 
-var quote1 = "“Quote 1”";
-var speaker1 = "-Olga Pierce";
+var quote1 = " ";
+var speaker1 = " ";
 
-var quote2 = "“Quote 2”";
-var speaker2 = "-Ryann Grochowski Jones";
+var quote2 = "Erase that. No one feels that way.";
+var speaker2 = "-Olga Pierce";
 
-var quote3 = "“Quote 3”";
-var speaker3 = "-Sisi Wei";
+var quote3 = "Take for instance, the chair.";
+var speaker3 = "-Charles Ornstein & Tracy Weber";
 
-var quote4 = "“Quote 4”";
-var speaker4 = "-Lena Groeger";
+var quote4 = "(N-O)/O!!";
+var speaker4 = "-Ryann Grochowski Jones";
 
-var quote5 = "“Quote 5”";
-var speaker5 = "-Tracy Weber";
+var quote5 = "This is the only time you’ll see a snail in my slide.";
+var speaker5 = "-Sisi Wei";
 
-var quote6 = "“Quote 6”";
+var quote6 = "Quote 6";
 var speaker6 = "-Charlie Ornstein";
 
-var quote7 = "“Quote 7”";
+var quote7 = "Quote 7";
 var speaker7 = "-Topher Sanders";
 
-var quote8 = "“Quote 8”";
+var quote8 = "Quote 8";
 var speaker8 = "-Olga Pierce";
 
-var quote9 = "“Quote 9”";
+var quote9 = "Quote 9";
 var speaker9 = "-Derek Willis";
 
-var quote10 = "“Quote 10”";
+var quote10 = "Quote 10";
 var speaker10 = "-Sisi Wei";
 
 // When someone clicks
@@ -36,7 +36,7 @@ var speaker10 = "-Sisi Wei";
 $("img").click(function(){
 
 	var currentQuote =	$("h1").text();
-	var fadeTime = 1000;
+	var fadeTime = 500;
 	
 	$("h1").fadeOut(0);
 	$("#image1").fadeTo(fadeTime,0);
@@ -99,7 +99,7 @@ $("img").click(function(){
 		$("p").text(speaker10);
 	} 
 
-	$("h1").fadeIn(1000);
+	$("h1").fadeIn(500);
 
 
 
@@ -107,6 +107,5 @@ $("img").click(function(){
 
 
 });
-
 
 })

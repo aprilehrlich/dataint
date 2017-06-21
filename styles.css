@@ -4,6 +4,7 @@ body {
 }
 
 h1 {
+  font-family: Georgia, serif;
   text-align: center;
   color: white;
   text-shadow: black 2px 2px 2px;
@@ -14,6 +15,7 @@ h1 {
 }
 
 p {
+  font-family: Georgia, serif;
   font-size: 18px;
   text-align: center;
   color: white;
@@ -46,5 +48,9 @@ p {
 }
 
 #image2 {
-  width: 800px;
+  width: 700px;
+}
+
+#image3 {
+  width: 700px;
 }
