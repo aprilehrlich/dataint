@@ -32,7 +32,7 @@ p {
   text-align: center;
   color: white;
   position: absolute;
-  bottom: 10px;
+  bottom: 30px;
   width: 600px;
   left: 25%;
 }
@@ -63,5 +63,3 @@ p {
 
 img {
   border: 5px solid white;
-
-=
