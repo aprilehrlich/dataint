@@ -13,6 +13,17 @@ h1 {
   margin: 0 auto;
 }
 
+.logo{
+  width: 50%;
+  border: 5px solid #1b507a;
+}
+
+h2 {
+    font-family: "Georgia",serif;
+    color: white;
+    font-size:19px;
+}
+
 p {
   font-size: 18px;
   text-align: center;
@@ -43,4 +54,8 @@ p {
 
 #image1 {
   opacity: 1;
+}
+
+img{
+  border: 5px solid white;
 }
