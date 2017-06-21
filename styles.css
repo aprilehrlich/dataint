@@ -4,12 +4,13 @@ body {
 }
 
 h1 {
+  font-family: Georgia, serif;
   text-align: center;
   color: white;
   text-shadow: black 2px 2px 2px;
   position: absolute;
   bottom: 50px;
-  width: 1000px;
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -25,16 +26,17 @@ h2 {
 }
 
 p {
+  font-family: Georgia, serif;
   font-size: 18px;
   text-align: center;
   color: white;
   position: absolute;
   bottom: 5px;
-  width: 1000px;
+  width: 700px;
 }
 
 .wrapper {
-  width: 1000px;
+  width: 700px;
   margin: 0 auto;
   z-index: 5;
 }
@@ -44,7 +46,7 @@ p {
 }
 
 .image {
-  width: 1000px;
+  width: 700px;
   position: absolute;
 }
 
@@ -52,10 +54,15 @@ p {
   opacity: 0;
 }
 
+<<<<<<< HEAD
 #image1 {
   opacity: 1;
 }
 
 img{
   border: 5px solid white;
+=======
+.imagecontainer {
+  width: 700px;
+>>>>>>> 5aec8a81c37f4401f53c94b4e10df64361ee0541
 }

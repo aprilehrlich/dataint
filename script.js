@@ -1,43 +1,42 @@
 
-
 $(document).ready(function(){
 
-var quote1 = "“The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said 'Take for instance, the chair.'”";
-var speaker1 = "-Charlie Ornstein and Tracy Weber";
+var quote1 = " ";
+var speaker1 = " ";
 
-var quote2 = "“Like all the Aprils here...you want to be treated individually. You are each your own unique April.”";
-var speaker2 = "-Derek Willis";
+var quote2 = "You can write def hippo?!";
+var speaker2 = "-Tasnim Shamma";
 
-var quote3 = "“Scraping is like our hazing tradition here at ProPublica.”";
-var speaker3 = "-Lena Groeger";
+var quote3 = "The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said, Take for instance, the chair.";
+var speaker3 = "-Charles Ornstein & Tracy Weber";
 
-var quote4 = "“NO/O!!!”";
+var quote4 = "(N-O)/O!!";
 var speaker4 = "-Ryann Grochowski Jones";
 
-var quote5 = "“In python I don’t know if I can clear. Sad!”";
+var quote5 = "This is the only time you'll see a snail in my slide.";
 var speaker5 = "-Sisi Wei";
 
-var quote6 = "“Quote 6”";
-var speaker6 = "-Charlie Ornstein";
+var quote6 = "We did the chitlin circuit of reporting. None of y'all probably knows what a chitlin is.";
+var speaker6 = "-Topher Sanders";
 
-var quote7 = "“This is the only time you’ll see a snail in my slide.”";
-var speaker7 = "-Sisi Wei";
+var quote7 = "Like all the Aprils here...you want to be treated individually. You are each your own unique April.";
+var speaker7 = "-Derek Willis";
 
-var quote8 = "“We did the chitlin circuit of reporting. None of y’all probably knows what a chitlin is.”";
-var speaker8 = "-Topher Sanders";
+var quote8 = "Scraping is like our hazing tradition here at ProPublica.";
+var speaker8 = "-Olga Pierce";
 
-var quote9 = "“Erase that. No one feels that way.”";
-var speaker9 = "-Olga Pierce";
+var quote9 = "I'll just erase Lena from my phone book... (N-O)/O!!";
+var speaker9 = "-Sisi and Lena";
 
-var quote10 = "“Mac users are so serious!”";
-var speaker10 = "-Enthusiastic Arlo desk guy";
+var quote10 = " ";
+var speaker10 = " ";
 
 // When someone clicks
 
 $("img").click(function(){
 
 	var currentQuote =	$("h1").text();
-	var fadeTime = 1000;
+	var fadeTime = 500;
 	
 	$("h1").fadeOut(0);
 	$("#image1").fadeTo(fadeTime,0);
@@ -98,16 +97,11 @@ $("img").click(function(){
 		$("h1").text(quote10);
 		$("#image10").fadeTo(fadeTime,1);
 		$("p").text(speaker10);
-	}
+	} 
 
-	$("h1").fadeIn(1000);
-
-
-
-
+	$("h1").fadeIn(500);
 
 
 });
-
 
 })
