@@ -9,7 +9,7 @@ h1 {
   color: white;
   text-shadow: black 2px 2px 2px;
   position: absolute;
-  bottom: 50px;
+  top: 550px;
   width: 700px;
   margin: 0 auto;
 }
@@ -20,7 +20,7 @@ p {
   text-align: center;
   color: white;
   position: absolute;
-  bottom: 5px;
+  bottom: 10px;
   width: 700px;
 }
 
