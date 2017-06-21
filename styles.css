@@ -1,13 +1,6 @@
 body {
   background-color: #1b507a;
-  /*background-image: url("images/ProPub.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 100% 100%; */
-}
-
-img {
-    top: 25px;
+  margin: 25px 0;
 }
 
 h1 {
@@ -15,7 +8,7 @@ h1 {
   color: white;
   text-shadow: black 2px 2px 2px;
   position: absolute;
-  bottom: 100px;
+  bottom: 50px;
   width: 1000px;
   margin: 0 auto;
 }
@@ -25,7 +18,7 @@ p {
   text-align: center;
   color: white;
   position: absolute;
-  bottom: 50px;
+  bottom: 5px;
   width: 1000px;
 }
 
@@ -36,7 +29,6 @@ p {
 }
 
 .image_container {
-  position:relative;
   z-index: 5;
 }
 
@@ -50,61 +42,5 @@ p {
 }
 
 #image1 {
-  width: 1000px;
   opacity: 1;
-  position: absolute;
 }
-
-#image2 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image3 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image4 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image5 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-#image6 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image7 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image8 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image9 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
-#image10 {
-  width: 1000px;
-  opacity: 0;
-  position: absolute;
-}
-
