@@ -10,7 +10,7 @@ h1 {
   text-shadow: black 2px 2px 2px;
   position: absolute;
   bottom: 50px;
-  width: 1000px;
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -21,11 +21,11 @@ p {
   color: white;
   position: absolute;
   bottom: 5px;
-  width: 1000px;
+  width: 700px;
 }
 
 .wrapper {
-  width: 1000px;
+  width: 700px;
   margin: 0 auto;
   z-index: 5;
 }
@@ -35,7 +35,7 @@ p {
 }
 
 .image {
-  width: 1000px;
+  width: 700px;
   position: absolute;
 }
 
@@ -44,5 +44,5 @@ p {
 }
 
 .imagecontainer {
-  width: 1000px;
+  width: 700px;
 }
