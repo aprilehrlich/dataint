@@ -36,24 +36,22 @@ var speaker10 = " ";
 $("img").click(function(){
 
 	var currentQuote =	$("h1").text();
-	var fadeTime = 500;
+	var fadeTime = 100;
 	
+	$(".image").fadeTo(fadeTime,0);
 	$("h1").fadeOut(0);
-	$("#image1").fadeTo(fadeTime,0);
+	$("p").fadeOut(0);
 		
 	if(currentQuote == quote1){
 		$("h1").text(quote2);
 		$("#image2").fadeTo(fadeTime,1);
 		$("p").text(speaker2);
-	} 
-
+	}
 	if(currentQuote == quote2){
 		$("h1").text(quote3);
 		$("#image3").fadeTo(fadeTime,1);
 		$("p").text(speaker3);
 	} 
-
-
 	if(currentQuote == quote3){
 		$("h1").text(quote4);
 		$("#image4").fadeTo(fadeTime,1);
@@ -98,8 +96,16 @@ $("img").click(function(){
 		$("#image10").fadeTo(fadeTime,1);
 		$("p").text(speaker10);
 	} 
+	// else (currentQuote == quote10){
+	// 	// $("h1").text(quote10);
+	// 	$("h1").text(quote1);
+	// 	$("#image1").fadeTo(fadeTime,1);
+	// 	$("p").text(speaker1);	
+	// }
+	
 
 	$("h1").fadeIn(500);
+	$("p").fadeIn(500);
 
 
 });
