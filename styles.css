@@ -10,7 +10,8 @@ h1 {
   text-shadow: black 2px 2px 2px;
   position: absolute;
   top: 550px;
-  width: 700px;
+  left: 25%;
+  width: 600px;
   margin: 0 auto;
 }
 
@@ -32,11 +33,12 @@ p {
   color: white;
   position: absolute;
   bottom: 10px;
-  width: 700px;
+  width: 600px;
+  left: 25%;
 }
 
 .wrapper {
-  width: 700px;
+  width: 600px;
   margin: 0 auto;
   z-index: 5;
 }
@@ -46,7 +48,7 @@ p {
 }
 
 .image {
-  width: 700px;
+  width: 500px;
   position: absolute;
 }
 
@@ -54,15 +56,12 @@ p {
   opacity: 0;
 }
 
-<<<<<<< HEAD
+
 #image1 {
   opacity: 1;
 }
 
-img{
+img {
   border: 5px solid white;
-=======
-.imagecontainer {
-  width: 700px;
->>>>>>> 5aec8a81c37f4401f53c94b4e10df64361ee0541
-}
+
+=

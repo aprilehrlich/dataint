@@ -7,7 +7,7 @@ var speaker1 = " ";
 var quote2 = "You can write def hippo?!";
 var speaker2 = "-Tasnim Shamma";
 
-var quote3 = "The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said, Take for instance, the chair.";
+var quote3 = "We had a whole section about the chairs. There was a line that said, Take for instance, the chair.";
 var speaker3 = "-Charles Ornstein & Tracy Weber";
 
 var quote4 = "(N-O)/O!!";
