@@ -4,32 +4,32 @@ $(document).ready(function(){
 var quote1 = " ";
 var speaker1 = " ";
 
-var quote2 = "Erase that. No one feels that way.";
-var speaker2 = "-Olga Pierce";
+var quote2 = "EYou can write def hippo?!";
+var speaker2 = "-Tasnim Shamma";
 
-var quote3 = "Take for instance, the chair.";
+var quote3 = "The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said, Take for instance, the chair.";
 var speaker3 = "-Charles Ornstein & Tracy Weber";
 
 var quote4 = "(N-O)/O!!";
 var speaker4 = "-Ryann Grochowski Jones";
 
-var quote5 = "This is the only time you’ll see a snail in my slide.";
+var quote5 = "This is the only time you'll see a snail in my slide.";
 var speaker5 = "-Sisi Wei";
 
-var quote6 = "Quote 6";
-var speaker6 = "-Charlie Ornstein";
+var quote6 = "We did the chitlin circuit of reporting. None of y'all probably knows what a chitlin is.";
+var speaker6 = "-Topher Sanders";
 
-var quote7 = "Quote 7";
-var speaker7 = "-Topher Sanders";
+var quote7 = "Like all the Aprils here...you want to be treated individually. You are each your own unique April.";
+var speaker7 = "-Derek Willis";
 
-var quote8 = "Quote 8";
+var quote8 = "Scraping is like our hazing tradition here at ProPublica.";
 var speaker8 = "-Olga Pierce";
 
-var quote9 = "Quote 9";
-var speaker9 = "-Derek Willis";
+var quote9 = "I'll just erase Lena from my phone book... (N-O)/O!!";
+var speaker9 = "-Sisi and Lena";
 
-var quote10 = "Quote 10";
-var speaker10 = "-Sisi Wei";
+var quote10 = " ";
+var speaker10 = " ";
 
 // When someone clicks
 

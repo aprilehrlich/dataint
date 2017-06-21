@@ -43,14 +43,6 @@ p {
   opacity: 0;
 }
 
-#image1 {
-  opacity: 1;
-}
-
-#image2 {
-  width: 700px;
-}
-
-#image3 {
-  width: 700px;
+.imagecontainer {
+  width: 1000px;
 }
