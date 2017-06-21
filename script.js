@@ -5,17 +5,17 @@ $(document).ready(function(){
 var quote1 = "“The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said 'Take for instance, the chair.'”";
 var speaker1 = "-Charlie Ornstein and Tracy Weber";
 
-var quote2 = "“Quote 2”";
-var speaker2 = "-Ryann Grochowski Jones";
+var quote2 = "“Like all the Aprils here...you want to be treated individually. You are each your own unique April.”";
+var speaker2 = "-Derek Willis";
 
-var quote3 = "“Quote 3”";
-var speaker3 = "-Sisi Wei";
+var quote3 = "“Scraping is like our hazing tradition here at ProPublica.”";
+var speaker3 = "-Lena Groeger";
 
-var quote4 = "“Quote 4”";
-var speaker4 = "-Lena Groeger";
+var quote4 = "“NO/O!!!”";
+var speaker4 = "-Ryann Grochowski Jones";
 
-var quote5 = "“Quote 5”";
-var speaker5 = "-Tracy Weber";
+var quote5 = "“In python I don’t know if I can clear. Sad!”";
+var speaker5 = "-Sisi Wei";
 
 var quote6 = "“Quote 6”";
 var speaker6 = "-Charlie Ornstein";
@@ -23,11 +23,11 @@ var speaker6 = "-Charlie Ornstein";
 var quote7 = "“Quote 7”";
 var speaker7 = "-Topher Sanders";
 
-var quote8 = "“Quote 8”";
-var speaker8 = "-Olga Pierce";
+var quote8 = "“We did the chitlin circuit of reporting. None of y’all probably knows what a chitlin is.”";
+var speaker8 = "-Topher Sanders";
 
-var quote9 = "“Quote 9”";
-var speaker9 = "-Derek Willis";
+var quote9 = "“Erase that. No one feels that way.”";
+var speaker9 = "-Olga Pierce";
 
 var quote10 = "“Quote 10”";
 var speaker10 = "-Sisi Wei";
