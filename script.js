@@ -20,8 +20,8 @@ var speaker5 = "-Sisi Wei";
 var quote6 = "“Quote 6”";
 var speaker6 = "-Charlie Ornstein";
 
-var quote7 = "“Quote 7”";
-var speaker7 = "-Topher Sanders";
+var quote7 = "“This is the only time you’ll see a snail in my slide.”";
+var speaker7 = "-Sisi Wei";
 
 var quote8 = "“We did the chitlin circuit of reporting. None of y’all probably knows what a chitlin is.”";
 var speaker8 = "-Topher Sanders";
@@ -29,8 +29,8 @@ var speaker8 = "-Topher Sanders";
 var quote9 = "“Erase that. No one feels that way.”";
 var speaker9 = "-Olga Pierce";
 
-var quote10 = "“Quote 10”";
-var speaker10 = "-Sisi Wei";
+var quote10 = "“Mac users are so serious!”";
+var speaker10 = "-Enthusiastic Arlo desk guy";
 
 // When someone clicks
 
