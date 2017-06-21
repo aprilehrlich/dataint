@@ -1,36 +1,35 @@
 
-
 $(document).ready(function(){
 
-var quote1 = "";
-var speaker1 = "";
+var quote1 = "“Quote 1”";
+var speaker1 = "-Olga Pierce";
 
-var quote2 = "“Erase that. No one feels that way.”";
-var speaker2 = "-Olga Pierce";
+var quote2 = "“Quote 2”";
+var speaker2 = "-Ryann Grochowski Jones";
 
-var quote3 = "“Scraping is like our hazing tradition here at ProPublica.”";
-var speaker3 = "-Lena Groeger";
+var quote3 = "“Quote 3”";
+var speaker3 = "-Sisi Wei";
 
-var quote4 = "“NO/O!!!”";
-var speaker4 = "-Ryann Grochowski Jones";
+var quote4 = "“Quote 4”";
+var speaker4 = "-Lena Groeger";
 
-var quote5 = "“In python I don’t know if I can clear. Sad!”";
-var speaker5 = "-Sisi Wei";
+var quote5 = "“Quote 5”";
+var speaker5 = "-Tracy Weber";
 
 var quote6 = "“Quote 6”";
 var speaker6 = "-Charlie Ornstein";
 
-var quote7 = "“This is the only time you’ll see a snail in my slide.”";
-var speaker7 = "-Sisi Wei";
+var quote7 = "“Quote 7”";
+var speaker7 = "-Topher Sanders";
 
-var quote8 = "“We did the chitlin circuit of reporting. None of y’all probably knows what a chitlin is.”";
-var speaker8 = "-Topher Sanders";
+var quote8 = "“Quote 8”";
+var speaker8 = "-Olga Pierce";
 
-var quote9 = "“Erase that. No one feels that way.”";
-var speaker9 = "-Olga Pierce";
+var quote9 = "“Quote 9”";
+var speaker9 = "-Derek Willis";
 
-var quote10 = "“Mac users are so serious!”";
-var speaker10 = "-Enthusiastic Arlo desk guy";
+var quote10 = "“Quote 10”";
+var speaker10 = "-Sisi Wei";
 
 // When someone clicks
 
@@ -98,7 +97,7 @@ $("img").click(function(){
 		$("h1").text(quote10);
 		$("#image10").fadeTo(fadeTime,1);
 		$("p").text(speaker10);
-	}
+	} 
 
 	$("h1").fadeIn(1000);
 
