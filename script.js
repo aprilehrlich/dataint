@@ -2,8 +2,8 @@
 
 $(document).ready(function(){
 
-var quote1 = "“Quote 1”";
-var speaker1 = "-Olga Pierce";
+var quote1 = "“The chair came to be a symbol of the project and the story. We had a whole section about the chairs. There was a line that said 'Take for instance, the chair.'”";
+var speaker1 = "-Charlie Ornstein and Tracy Weber";
 
 var quote2 = "“Quote 2”";
 var speaker2 = "-Ryann Grochowski Jones";
